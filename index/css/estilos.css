@@ -1,0 +1,43 @@
+body {background:#011134;
+color:#fff;
+font-family: roboto;
+}
+
+
+
+
+
+#particles-js {
+    height:100vh;
+    width: 100%;
+    position:fixed;
+    z-index:-1;
+}
+
+.contenedor{
+    width:90%
+    max-width:120px;
+    background-size:cover;
+    background-position:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:15 px;
+    padding: 20px 30px;
+    position:relative;
+    z-index: 99;
+    opacity:.85;
+
+}
+
+
+a {
+    font-size: 20px;
+    color:#fff;
+    text-decoration: none;
+    padding:10px 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+a:hover {
+    background:#494949;
+}
